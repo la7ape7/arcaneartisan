@@ -1,0 +1,7 @@
+[Environment]
+Type = "dev"
+Port = "9012"
+ApiSecretKey = "MaSupercléDeLespaceQuiEnculeTout"
+
+[Database]
+SqliteFilePath ="database.db"
